@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<map>
+	<hole xBegin="700" xEnd="800"></hole>
+	<hole xBegin="1400" xEnd="1500"></hole>
+	<hole xBegin="2100" xEnd="2200"></hole>
+	<hole xBegin="2900" xEnd="3000"></hole>
+	<platform xBegin="1000" xEnd="1100" yBegin="213" yEnd="253"></platform>
+	<platform xBegin="1824" xEnd="2003" yBegin="100" yEnd="120"></platform>
+	<platform xBegin="2600" xEnd="2738" yBegin="120" yEnd="140"></platform>
+</map>
